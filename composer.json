@@ -1,0 +1,6 @@
+{
+	"name": "lib/vendor",
+    "require": {
+        "twig/twig": "^2.13"
+    }
+}
